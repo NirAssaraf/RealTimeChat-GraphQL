@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "keese-realtimechat",
+  "private_key_id": "19cbc83a0491ce7ebca00964e28efcb4acee72b0",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCoAcVGJbE7kGhn\nzxr5o/L92DYGwgPhlUaJHE2k9cRgPRDUo8Ud+uiqqlJldOjJobWFUKAohwotKESe\nQOm6VfitFr5QuBtD9SCMByPCq0VcL+FBgmyl/BJKSEQCUbB/mQTlpfWMyWUJChe/\n4CIFM8t/ott0L6WMOwKQjal9h1OdK75sJxg8jndBn9Hv4da1FzujTH+TLzDEBOIU\nSZZJbLhm7/+RsH9qPGRqIKZEFxv1xr3HY+IVCGDVfmRG5N8jqNZtP/JcQF7JJAjK\nB0uSJJp3CgxbU+ztZezYxRENB06QIL2q/MWMpKYSBRbS9Io8JZW2QsAXWmkUYFUg\n6Cyo2BNbAgMBAAECggEACRvbd3g6+cj5DwF/fftPYGwQUTzEEmO/35+dSlr0iwym\n0CrbfUqywjoIOcAcIqMIM1utNGwp5QK7+IaMTq18cLez4kDn9GN+IJu1obUcNBcd\nU+EkKd7NvsX8+D7u3lHeniv78R1bDH0PGLiWHVI8OMXV27L9VrMYoUlOFvaSjMDI\nIdnZs0bTCLDYFEIAf79lGvtDIvwem3j1NpZKOYMgxboJsuVNA9DwW9auMgDLpA5V\nkEaXUpsBIWSoEC75DdHD6DajCGCrs3m72Y+mW90c8LTZnInGGjUULWFS2SocX8N9\nRLGi5CfXMyJ/nJ3pMoOtf7wTph1xhnE0MngJX3iLAQKBgQDnkSf9DIkjIJGnqu2k\nmMoBG5Pi1TFwOb23/1A57xMSDlneYnxDmTo1gJ0UtReQR6rbqB2Oe5XXzxrAkm8g\niVDfxZu92sW8psES6+z0bFeDETN882UAiKP+p60v4ku7kjWky+oqCkeiCM1XFn4c\n4q/d3tVp9vGcmAzy0F0D+znRAQKBgQC5u8vLYCbhXzR9hzyhmKXTon28YQAsq+yy\nCD9GmTuEwwZEPDAjd10/uGvLrrhos5TH08Sk9Sp8ewtSnzVfpigvU6wPpbbrzCUz\n3m/6zr5+zdVIFkqNb7ivkJ4qKDAyFOf7OzKGA05xFOKt4CPP+jzQrF4+6IpLvr9L\nwagbjgLIWwKBgE/NJUO+YzA41Bk8/YKAqPSyxUchg1USgP/8u3ALpL3PNkc+F2bQ\nUlAHz5pIQiOVnxrtl6n3iw8BL0336NYEnFtRZTeLQiOeL+FObq1Y/NuNPPotgrwp\nWqKytCtRSBoO6++r2jm8qyz67ZC6jqFzuXmzhkZrNJ5rg+LVzYhGtokBAoGAW/My\nAFx4wyh79w1FogbNScnvD5zCFluDEdxtXwkrYx2d85gMiPJmEs69Zxf3qbYGGSuo\n9bV+NCRCRcQWC2VaDZwR2alDttbZMCWWMIe73VEPnuGSRRUjTJ9+/gXpXlHlSwZS\ni/AFHIyncEc/043iH7jF68T5+mfTkrCsBgA3NnMCgYEA4ZO83zaLyXgAGCXfiW/l\ny0QInxErn+o8sJ0gpvnmALq+oMJ5CaGINVt1Jo5LMyp+YDSZ9Vch7ZEtzR5Lxo50\nyl3nnieVa1mfHa+yPEuzEpmJmpsS77VXUWzi702ccJFr9OMnSnCpTSBl1RGVRAlE\nFfDcNl6jsRDFB0+HRpKesxs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-8l1b1@keese-realtimechat.iam.gserviceaccount.com",
+  "client_id": "112125825259099593406",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-8l1b1%40keese-realtimechat.iam.gserviceaccount.com"
+}
