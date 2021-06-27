@@ -3,8 +3,9 @@
 how to start?
 on terminal run the commends:
 
-1. nmp install
+1. npm install
 2. npm run dev
+3. server will run on port 3000 => http://localhost:3000/
 
 GrapQL playground quarys:
 
